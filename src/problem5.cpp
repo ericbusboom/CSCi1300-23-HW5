@@ -6,7 +6,6 @@
 
 using namespace std;
 
-
 int main(){
     const int CLUE_ROWS = 5;
     const int CLUE_COLS = 2;
