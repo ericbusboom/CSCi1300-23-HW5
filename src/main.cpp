@@ -1,7 +1,4 @@
 // CSCI 1300 Fall 2023
-// Author: Max Busboom
-// TA: Aditya
-// Question 5b
 #include <cmath>
 #include <iostream>
 #include <iomanip>
